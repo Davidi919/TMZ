@@ -1,0 +1,188 @@
+
+.page-id-3768 .flexslider .caption h2 { color:#ffffff; font-size:44px; text-align:center; text-shadow:0 4px 2px rgba(0,0,0,.9); margin-bottom:0;}
+.page-id-3768 .flexslider .caption h4 { color:#ffffff; font-size:32px; text-align:center; text-shadow:0 4px 2px rgba(0,0,0,.9); margin-top:4px; margin-bottom:24px}
+body footer .cnt .ftw .ttl {
+    border-bottom: none;
+    color: #fff;
+    font-size: 20px !important;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+    padding: 0 0 10px 0;
+    font-weight: 700;
+}
+
+div.metaslider .caption-wrap { opacity:1; background:none; bottom:auto; top:30%;}
+.page-id-3768 .flexslider .caption a{ background:#fc2623; padding:10px 40px; font-size:17px; color:#FFF; text-decoration:none; font-weight:900;
+  display:inline-block; border-radius:50px; display:inline-block;}
+.page-id-3768 .flexslider .caption a:hover { background:#ff5a57}
+
+.page-id-3768 .flexslider .caption { text-align:center;}
+body.page-id-3768 .flexslider ul{ margin:0 !important;}
+.metaslider div.flexslider { margin:0;}
+.mensHealth { position:relative; border:#e7e7e7 thin solid; line-height:0; margin-bottom:35px;}
+.opcty-text-box { position:absolute; background:rgba(255,255,255,0.9); width:45%; top:0; right:0; height:calc(100% - 30px); padding:30px 30px 0;}
+.mensHealth p {color:#3f3f3f; font-size:15px; line-height:24px; margin-bottom:20px;}
+.mensHealth h3 { font-size:24px; color:#3f3f3f; margin-top:0; }
+.mensHealth a.readMore{ font-size:14px; font-weight:bold; color:#fc2623; margin-top:20px;}
+div.product-sidebar { border:#e7e7e7 thin solid; padding:20px;}
+div.product-sidebar .productBox img { border:#e7e7e7 thin solid; margin-bottom:5px;}
+div.product-sidebar .productBox { text-align:center; margin-bottom:15px;}
+div.product-sidebar .productBox p{ color:#010101; font-weight:300; font-size:16px; margin-bottom:10px;}
+div.product-sidebar .productBox a{ color:#fc2623; font-size:15px; font-weight:bold;}
+h2.health-heading { font-size:30px; color:#2196f3;margin-top:10px; margin-bottom:20px;}
+div.product-sidebar h2{ font-size:20px; color:#2196f3; text-align:center; margin-top:0; margin-bottom:20px;}
+.join-full h1{ color:#2196f3; font-size:36px;}
+.join-full p { font-size:16px; color:#262626; text-align:center;}
+.join-full:before { background:#f0f0f0; content:""; width:100%; height:100%; position:absolute; width:200%; margin-left:-90%;}
+.join-full:after { background:#f0f0f0; content:""; width:100%; height:100%; position:absolute; width:200%; margin-right:90%;}
+a, a:hover {-moz-transition: all 0.4s ease; -webkit-transition: all 0.4s ease;transition: all 0.4s ease;}
+#guides-articles .thrv-icon, #latest-posts .thrv-icon { color:rgb(252, 38, 35); font-size:8px;}
+
+#most-interested {}
+#most-interested .tcb-flex-col .tcb-col { position:relative;  -moz-transition: all 0.4s ease; -webkit-transition: all 0.4s ease;transition: all 0.4s ease;}
+#most-interested .trans-bg {
+	position: absolute;
+	margin-top: 0 !important;
+	bottom: 0; top:137px;
+	left: 0;
+	right: 0; -moz-transition: all 0.4s ease; -webkit-transition: all 0.4s ease;transition: all 0.4s ease;
+}
+
+#most-interested .tcb-flex-col .tcb-col:hover .trans-bg { top:0; padding-top:71px !important}
+#mailing-list-form { text-align:center;}
+#mailing-list-form .tve_lg_input {
+	display: inline-block;
+	width: 32%;
+	margin-right: 12px;
+}
+#mailing-list-form .tve_lg_submit {
+	display: inline-block;
+	width: 130px; vertical-align:top;
+}
+#mailing-list-form .tve_lg_submit .tve-froala { padding:10px;}
+.sub-menu {
+	text-align: center;
+}
+#logo { position:relative; z-index:999;}
+footer { background:#000 url(../images/footer-bg.jpg) no-repeat center center;}
+footer .sub-menu, #footer .sub-menu { display:none;}
+footer .menu li a { color:rgb(205,205,205) !important; padding:10px 0;}
+footer .menu li a:hover{ color:#ce271b !important;}
+body header #logo > a > img {
+	max-width: 110px !important;
+}
+body header ul.menu > li > a {
+	color:rgb(48,159,217);
+	font-weight: bold;
+}
+body header ul.menu > li > a:hover, body header ul.menu > li.current-menu-item > a, body header ul.menu > li.current-menu-item > a:hover { color:#ce271b}
+
+.sub-menu li.current-menu-item a, .sub-menu li.current-menu-item a:hover  { color:#fff; background:#ce271b}
+header .side_logo #nav_right {
+	vertical-align: middle;
+}
+footer .colm:first-child { width:29.7%;}
+footer .colm:nth-child(2) {
+    width: 16.6%;
+    margin-left: 2%;
+}
+footer .colm:last-child {width:47.7%;}
+
+footer .colm:first-child .widget_text { margin-left:0;
+
+}
+footer .colm:first-child .widget_text p  {
+	color: rgb(174,174,174); margin-left:0; line-height:1.5;
+	font-size: 15px;
+}
+footer ul.social {
+    margin-top: 24px;
+}
+footer ul.social li {
+    display: inline-block; background:none !important;
+    vertical-align: top; padding:0 !important; margin-right:6px;
+}
+footer ul.social a {
+    display: block; /*background:url(../images/social-icons.gif) no-repeat;*/
+    width: 31px;
+    height: 31px;
+    font-size: 0px;
+}
+footer ul.social a:hover { margin-left:0 !important; opacity:.8}
+footer ul.social li:first-child a { background-position:0 0;}
+footer ul.social li:nth-child(2) a { background-position:-31px 0;}
+footer ul.social li:nth-child(3) a { background-position:-62px 0;}
+footer ul.social li:last-child a { background-position:-93px 0;}
+
+footer .mailing-list {
+    -moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;
+    background-color: rgb(252,38,35);
+    overflow: hidden; padding:12px 30px; margin-top:30px; font-size:15px; color:#fff; display: inline-block}
+
+footer .mailing-list:hover{ background:#db0d0a;}
+.right .cta_widget { z-index:-1}
+.copyright .footer_menu li { padding:0px;}
+.copyright .footer_menu li a { padding:5px 10px; display:block; color:rgba(44,44,44,1); font-size:14px;}
+.copyright .footer_menu li a:hover { text-decoration:none;}
+.credits + p, .credits + p a  { color:rgba(44,44,44,1); font-size:14px; margin-bottom:22px;}
+.copyright { margin-top:22px; margin-bottom:5px;}
+
+header nav ul li > ul {
+    width: 250px;
+    padding: 0; opacity:1;
+    position: absolute; background:#fff;
+    border: 1px solid #b4b4b4;
+    border-radius: 3px; box-shadow:none;
+    z-index: 4;}
+header nav ul li>ul li { border-top: none;}
+header nav ul li>ul li a { padding:12px 15px; color:#373737; display:block; border-color:#fff; font-weight:700; line-height:1}
+header nav ul li>ul li a:hover {
+    box-shadow:none; background:#ce271b; border-color:#fff;
+    color: #fff;
+    padding-left: 15px;
+}
+.favorites {
+    display: inline-block;
+    margin: 0 auto;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    color: #fff !important; margin-top:12px;
+    font-size: 18px;
+    padding: 10px 32px;
+}
+.favorites:hover{ background:#1abc9c}
+
+@media (max-width:999px) {
+	footer .ftw .colm:first-child, 	footer .ftw .colm:nth-child(2), footer .colm:last-child { width:auto; display:block; margin:10px 0; max-width:100%;}
+	iframe { max-width:100%;}
+	.q2w3-fixed-widget-container section { position:relative !important;}
+
+	}
+@media (max-width:640px) {
+.page-id-3768 .flexslider .caption h2 { font-size:16px;}
+.page-id-3768 .flexslider .caption h4 { font-size:13px; margin-bottom:10px;}
+
+.page-id-3768 .flexslider .caption a {
+	padding: 6px 32px;
+	font-size: 14px;
+
+}
+div.metaslider .caption-wrap {
+	top: 8%;
+}
+.mensHealth .opcty-text-box {
+	position: relative;
+
+	width: auto;
+	padding: 24px;
+}
+
+}
+
+
+@media (max-width:480px) {
+	div.metaslider .caption-wrap {
+	top: -15%;
+}
+
+	}
